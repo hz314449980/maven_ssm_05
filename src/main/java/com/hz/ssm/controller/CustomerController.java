@@ -41,9 +41,7 @@ public class CustomerController {
 		System.out.println("1111111111111");
 		System.out.println("jjjjjjjjjjjjjj");
 
-
-		System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
-		
+		System.out.println("********");
 		//把路径保存到数据库
 		customer.setPicFilepath(uuidName);
 		//日期400的问题
