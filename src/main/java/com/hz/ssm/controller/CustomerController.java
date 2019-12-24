@@ -34,6 +34,8 @@ public class CustomerController {
 		
 		//执行文件上传
 		picFile.transferTo(file);
+
+		System.out.println("==========================");
 		
 		System.out.println("jjjjjjjjjjjjjj");
 		
